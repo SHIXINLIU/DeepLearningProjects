@@ -1,0 +1,12 @@
+README
+sliu102 ShixinLiu
+
+Both models can be trained within 10 minutes with no bugs.
+
+Trigram
+embedding_size = 256, learning_rate = 5e-4
+final perplexity is around 250
+
+RNN
+embedding_size = 300, rnn_size = 256, learning_rate = 0.01
+final perplexity is around 140
