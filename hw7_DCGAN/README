@@ -1,0 +1,6 @@
+README
+sliu102(Shixin Liu)
+
+average fid per batch is around 170. 
+My model can finish training in less than 2.5 hours.
+
