@@ -1,6 +1,9 @@
 README
 sliu102(Shixin Liu)
 
+run '''python download.py''' to download data
+
+
 average fid per batch is around 170. 
 My model can finish training in less than 2.5 hours.
 
