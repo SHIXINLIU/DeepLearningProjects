@@ -1,6 +1,5 @@
-README CNN_CIFAR
+# Convolutional Neural Networks on CIFAR2
 
-Shixin Liu (sliu102)  B01561238
 
 Part 1:
 My final network contains 4 CNN layers and 4 dense layers.
