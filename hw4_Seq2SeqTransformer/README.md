@@ -2,7 +2,7 @@
 RNN and TRANSFORMER method to translate French to English. 
 
 ## Preprocess
-Run 'pip install gast'.
+Run `pip install gast`.
 * Read the French training data and the English training data
 * Read the French testing data and the English testing data
 * Call pad_corpus on the training and testing data
