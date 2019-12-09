@@ -11,9 +11,11 @@ Run `pip install gast`.
 
 ## part1.RNN
 run `python assignment.py RNN`
+
 My final perplexity = 8, accuracy = 0.66
 
 ## part2.TRANSFORMER
 run `python assignment.py TRANSFORMER`
+
 My final perplexity = 3, accuracy = 0.80
 
