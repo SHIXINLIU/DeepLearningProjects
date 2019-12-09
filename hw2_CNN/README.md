@@ -2,7 +2,7 @@
 This time we use CIFAR dataset to train CNN to judge cat or dog...
 
 ## Dataset
-While the CIFAR10 dataset has 10 possible classes (airplane, automobile, bird, cat, deer, frog, horse, ship, and truck), you will build a CNN to take in an image and correctly predict its class to either be a cat or dog, hence CIFAR2. So after reading in the data, I only pick 2 classes to train and test. 
+While the CIFAR10 dataset has 10 possible classes (airplane, automobile, bird, cat, deer, frog, horse, ship, and truck), you will build a CNN to take in an image and correctly predict its class to either be a cat or dog, hence CIFAR2. So after reading in the data, I only pick 2 classes to train and test. see `preprocess.py`
 
 ## Part1: use tf.nn.conv2d (not allowed to use keras yet!)
 Built CNN using tf.nn.conv2d tiredly. see `/assignment.py`
