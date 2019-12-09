@@ -1,8 +1,0 @@
-README
-sliu102 (Shixin Liu)
-
-REINFORCE:
-final average rewards can reach 380 after 650 episodes
-
-REINFORCE with baseline
-final average rewards can reach 470 after 650 episodes
