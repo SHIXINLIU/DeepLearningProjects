@@ -16,7 +16,8 @@ Run `python trigram.py` to train and generate a silly sentence after training.
 embedding_size = 256, learning_rate = 5e-4
 My final perplexity is around 250
 
-## RNN
+## RNN (LSTM)
+This time I can use tf.keras.layers! 
 Run `python rnn.py`.
 embedding_size = 300, rnn_size = 256, learning_rate = 0.01
 My final perplexity is around 140
