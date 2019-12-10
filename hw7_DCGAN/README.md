@@ -1,6 +1,7 @@
 # Deep Convolutional Generative Adversarial Networks (DCGAN)
 
 based on this [paper](https://arxiv.org/pdf/1511.06434.pdf) (already in the dir)
+and this [tutorial](https://www.tensorflow.org/tutorials/generative/dcgan).
 
 ```
 - download.py
