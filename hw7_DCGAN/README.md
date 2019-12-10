@@ -1,6 +1,6 @@
 # Deep Convolutional Generative Adversarial Networks (DCGAN)
 
-based on this paper(in the dir): https://arxiv.org/pdf/1511.06434.pdf
+based on this [paper](https://arxiv.org/pdf/1511.06434.pdf) (already in the dir)
 
 ```
 - download.py
